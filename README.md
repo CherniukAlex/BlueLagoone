@@ -1,2 +1,0 @@
-# BlueLagoone
-Cinema for Web
